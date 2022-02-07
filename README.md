@@ -1,0 +1,1 @@
+# nvidia-device-query
