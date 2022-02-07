@@ -2,6 +2,10 @@
 
 This is a simple container to query NVIDIA devices inside a container.
 
+## Requirements
+- CUDA capable GPU
+- NVIDIA CUDA Runtime >= 11.6.0
+
 ## Usage
 
 Docker:
