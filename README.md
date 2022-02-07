@@ -24,7 +24,7 @@ metadata:
 spec:
   containers:
     - name: nvidia-device-query
-      image: ghcr.io/kuartis/nvidia-device-query:latest
+      image: ghcr.io/kuartis/nvidia-device-query:1.0.0
       resources:
         limits:
           nvidia.com/gpu: '1'
