@@ -7,7 +7,7 @@ This is a simple container to query NVIDIA devices inside a container.
 Docker:
 
 ```bash
-docker run --privileged --gpus all ghcr.io/kuartis/nvidia-device-query
+docker run --privileged --gpus all ghcr.io/kuartis/nvidia-device-query:1.0.0
 ```
 
 Kubernetes:
